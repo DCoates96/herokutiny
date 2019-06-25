@@ -11,6 +11,25 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.16.2"
-  }
+  "amazon-cognito-identity-js": "^3.0.3",
+  "aws-sdk": "^2.356.0",
+  "axios": "^0.18.0",
+  "bluebird": "^3.5.2",
+  "cors": "^2.8.5",
+  "express": "^4.16.4",
+  "jsonwebtoken": "^8.4.0",
+  "jwk-to-pem": "^2.0.0",
+  "lodash": "^4.17.11",
+  "mysql2": "^1.6.1",
+  "node-fetch": "^2.3.0",
+  "react": "^16.5.2",
+  "react-dom": "^16.5.2",
+  "react-scripts": "2.0.4",
+  "sequelize": "^4.39.0",
+  "stripe": "^6.23.1",
+  "tedious": "^6.2.0",
+  "umzug": "^2.1.0",
+  "uuid": "^3.3.2",
+  "winston": "^3.1.0"
+}
 }
